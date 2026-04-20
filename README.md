@@ -1,0 +1,2 @@
+# Booth-Level-Election-Data-Analysis-Data-Driven-Insights-for-Political-Strategy
+I conducted a comprehensive booth-level election analysis for the Warangal West Assembly Constituency to understand party performance, voter behavior, and micro-level voting patterns. Using polling-station data, I analyzed trends across BJP, INC, BRS, BSP, Independents, and NOTA to identify strongholds, weak zones, and growth opportunities.
