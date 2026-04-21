@@ -167,14 +167,11 @@ election-eda-warangal-west/
 ├── data/
 │   ├── raw/
 │   │   └── polling_data_scanned.pdf      ← original scanned PDF
-│   ├── extracted/
-│   │   └── polling_data_raw.csv          ← after PDF → CSV extraction
-│   └── processed/
+│   |
+│   |__  processed/
 │       └── polling_data_clean.csv        ← after preprocessing
 │
 ├── notebooks/
-│   ├── 01_data_extraction.ipynb          ← PDF to CSV conversion
-│   ├── 02_preprocessing.ipynb            ← data cleaning pipeline
 │   └── 03_eda_analysis.ipynb             ← full EDA and insights
 │
 ├── plots/
@@ -207,8 +204,6 @@ cd election-eda-warangal-west
 pip install -r requirements.txt
 
 # 3. Run notebooks in order
-jupyter notebook notebooks/01_data_extraction.ipynb
-jupyter notebook notebooks/02_preprocessing.ipynb
 jupyter notebook notebooks/03_eda_analysis.ipynb
 ```
 
