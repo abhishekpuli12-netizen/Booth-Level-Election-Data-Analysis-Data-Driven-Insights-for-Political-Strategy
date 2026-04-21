@@ -248,13 +248,6 @@ pip install pandas matplotlib seaborn jupyter numpy
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/abhishekpuli12-netizen)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:abhishekpuli12@gmail.com)
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 <div align="center">
 
